@@ -1,4 +1,4 @@
-// MY PYTHON EDITOR IS BROKEN :(
+
 import hashlib 
 from tkinter import *
 from tkinter import messagebox
